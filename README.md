@@ -11,9 +11,7 @@ it also  includes practical examples from Andrew Ng's machine learning courses (
 
 <a href="url"><img src="https://github.com/Ale9806/Singualr-Value-Decompositon/blob/master/images/svd.PNG" align="left"  width="400"  > </a>
 
-<br />&nbsp;<br 
-<br />&nbsp;<br />
-<br />&nbsp;<br />
+
 <br />&nbsp;<br />
 <br />&nbsp;<br />
 <br />&nbsp;<br />
