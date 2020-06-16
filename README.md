@@ -1,4 +1,5 @@
 # Singualr Value Decompositon
+
 **SVD can be seen with different glasses:**
 1. You could say that SVD is a data driven generalization of the fourier transform.
 2. SVD states that any Matrix transformation consists of  a rotation, a strech , and another rotation.
